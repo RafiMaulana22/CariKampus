@@ -2,18 +2,18 @@
 
 @section('content')
     <h4 class="text-center mb-4">Masuk ke akun Anda</h4>
-    <form action="">
+    <form action="" method="POST">
         <div class="form-group">
             <label class="mb-1">
                 <strong>Email</strong>
             </label>
-            <input type="email" class="form-control" placeholder="Masukkan Email">
+            <input type="email" name="email" class="form-control" placeholder="Masukkan Email">
         </div>
         <div class="form-group">
             <label class="mb-1">
                 <strong>Password</strong>
             </label>
-            <input type="password" class="form-control" placeholder="**********">
+            <input type="password" name="password" class="form-control" placeholder="**********">
         </div>
         <div class="form-row d-flex justify-content-between mt-4 mb-2">
             <div class="form-group">

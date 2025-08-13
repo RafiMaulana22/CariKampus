@@ -7,4 +7,8 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+// Route untuk halaman login
 Route::get('/login', [AuthController::class, 'Login'])->name('login');
+
+// Route untuk halaman register
+Route::get('/register', [AuthController::class, 'Register'])->name('register');
