@@ -21,12 +21,12 @@
                     </li>
                 </ul>
             </li>
-            <li>
+            {{--  <li>
                 <a class="ai-icon" href="javascript:void()" aria-expanded="false">
                     <i class="flaticon-bar-chart-1"></i>
                     <span class="nav-text">Man. Pengguna</span>
                 </a>
-            </li>
+            </li>  --}}
         </ul>
         <div class="copyright">
             <p>
