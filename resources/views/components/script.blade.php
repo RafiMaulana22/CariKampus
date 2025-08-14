@@ -6,6 +6,9 @@
 <script src="{{ asset('assets') }}/public/assets/vendor/peity/jquery.peity.min.js"></script>
 <script src="{{ asset('assets') }}/public/assets/vendor/apexchart/apexchart.js"></script>
 <script src="{{ asset('assets') }}/public/assets/js/dashboard/dashboard-1.js"></script>
+<script src="{{ asset('assets') }}/public/assets/vendor/datatables/js/jquery.dataTables.min.js"></script>
+<script src="{{ asset('assets') }}/public/assets/js/plugins-init/datatables.init.js"></script>
+<script src="{{ asset('assets') }}/public/assets/vendor/lightgallery/js/lightgallery-all.min.js"></script>
 
 <script src="{{ asset('assets') }}/public/assets/js/custom.min.js"></script>
 <script src="{{ asset('assets') }}/public/assets/js/deznav-init.js"></script>

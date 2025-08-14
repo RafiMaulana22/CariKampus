@@ -14,10 +14,10 @@
                 </a>
                 <ul aria-expanded="false">
                     <li>
-                        <a href="flot.html">Lihat Semua Kampus</a>
+                        <a href="/kampus">Lihat Semua Kampus</a>
                     </li>
                     <li>
-                        <a href="morris.html">Tambah Kampus Baru</a>
+                        <a href="/kampus/tambah">Tambah Kampus Baru</a>
                     </li>
                 </ul>
             </li>

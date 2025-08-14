@@ -4,3 +4,7 @@
     rel="stylesheet" type="text/css" />
 
 <link class="main-css" href="{{ asset('assets') }}/public/assets/css/style.css" rel="stylesheet" type="text/css" />
+
+<link href="{{ asset('assets') }}/public/assets/vendor/datatables/css/jquery.dataTables.min.css" rel="stylesheet" type="text/css"/>
+
+<link href="{{ asset('assets') }}/public/assets/vendor/lightgallery/css/lightgallery.min.css" rel="stylesheet" type="text/css"/>

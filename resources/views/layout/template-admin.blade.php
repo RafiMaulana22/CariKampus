@@ -75,6 +75,7 @@
         ***********************************-->
         <div class="content-body">
             <div class="container-fluid">
+                @yield('breadcrumb')
                 @yield('content')
             </div>
         </div>
